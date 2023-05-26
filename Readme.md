@@ -33,6 +33,7 @@ Upon running the program it would require login, the details are as follows:
 Login Details
 
 Username : admin
+
 Password : 1234
 
 **Contributing**
@@ -50,4 +51,5 @@ This real estate project is licensed under the MIT License. Feel free to use, mo
 We would like to acknowledge the contributions of the following individuals to the development of this real estate project:
 
 Humayun Saeed
+
 Abdul Rahman Khatib
