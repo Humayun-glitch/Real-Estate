@@ -39,7 +39,7 @@ namespace ACCOUNTMANAGEMENT
                                   
                 cmd.CommandText = "SELECT MAX(GROUPID) as GROUPID FROM ProductGroup";
                 rdr = cmd.ExecuteReader();
-                if (rdr.Read())
+                if (rdr.Read())g
                 {
                     if (rdr.IsDBNull(rdr.GetOrdinal("GROUPID")))
                     {
